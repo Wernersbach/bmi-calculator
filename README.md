@@ -10,6 +10,14 @@ React Hooks app to calculate the BMI of a person. It can store the data for 7 da
 
 Created with _create-react-app_. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
+
+
+Modificaçoes em cores e fontes
+Ezequiel Trindade
+
+
+
+/
 ## Install
 
 `npm install`
